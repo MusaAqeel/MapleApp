@@ -36,6 +36,9 @@
 
 
 ### Art 
-Use DALL-E to create art for app
+Use DALL-E 2 to create art for app
+
+## UI/UX
+Leverage Figma
 
 
